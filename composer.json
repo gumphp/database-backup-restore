@@ -1,5 +1,5 @@
 {
-    "name": "codexshaper/database-backup-restore",
+    "name": "gumphp/database-backup-restore",
     "description": "Database Backup and Restore",
     "keywords": [
         "databse",
